@@ -1,2 +1,17 @@
 Course Website: https://courses.edx.org/courses/course-v1:UBCx+HtC1x+2T2017/course/
 Start date: Jan 22, 2020
+Audit access expires: March 12, 2020
+Total time spent working: 1h 15min
+Expected completion time: 5-8 hours
+
+Jan 22, 2020 | 1h 15min
+==========================================================
+- Read though introductory materials
+- Started Module 1A: Beginning Student Language
+- Course uses Beginning Student Language (BSL) and program Dr. Racket v7.5 to write it
+- Unfortunately all but peer questions are unavailable for auditing
+- Review of primitive, operator, and operands.
+- Primitive: basic evaluation
+- Operator: type of evaluation. Like +, -, *, /
+- Operand: values being operated on to create new values
+- Evaluation order is left -> right, inside -> outside
